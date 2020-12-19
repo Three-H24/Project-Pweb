@@ -1,0 +1,9 @@
+body {
+  background-image: url("bg1.jpg");
+  background-size: cover;
+}
+
+.table-hover tbody tr:hover td {
+  color: #4b4b4b;
+  background-color: rgba(240, 235, 235, 0.075);
+}
